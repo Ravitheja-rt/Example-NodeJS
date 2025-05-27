@@ -1,0 +1,3 @@
+func create --language node --name hello-func
+cd hello-func
+func deploy
